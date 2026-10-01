@@ -1,0 +1,14 @@
+.env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.sqlite
+*.env
+*.bak
+state.json
+telegram.json
+*.json
+test.py
